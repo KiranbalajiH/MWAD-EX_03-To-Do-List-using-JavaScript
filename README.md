@@ -64,6 +64,7 @@ Upload to GitHub Pages for free hosting.
 '''
 ## style.css
 '''
+        
         * {
             margin: 0;
             padding: 0;
@@ -161,6 +162,7 @@ Upload to GitHub Pages for free hosting.
 
 ## script.js
 '''
+       
         document.addEventListener("DOMContentLoaded", () => {
             const taskInput = document.getElementById("task-input");
             const addTaskBtn = document.getElementById("add-task-btn");
